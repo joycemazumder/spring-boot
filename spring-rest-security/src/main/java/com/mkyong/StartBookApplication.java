@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 @SpringBootApplication
 public class StartBookApplication {
 
-    // start everything
+    // start spring boot everything
     public static void main(String[] args) {
         SpringApplication.run(StartBookApplication.class, args);
     }
